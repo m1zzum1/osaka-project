@@ -1,1 +1,2 @@
 My path to Osaka starts here
+Today I learned Git basics and pushed my first repo
